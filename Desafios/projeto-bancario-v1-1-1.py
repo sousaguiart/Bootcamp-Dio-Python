@@ -7,6 +7,8 @@ extrato = []
 numero_saques = 0
 LIMITE_SAQUES = 3
 
+# main
+
 print(textwrap.dedent("""\
     Iniciando sistema bancário.
 """))
